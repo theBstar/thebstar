@@ -9,7 +9,7 @@ I am Bikram 👦, A full stack developer
 - Maintaining the [JavaScript.info](https://javascript.info/) Hindi [Repo](https://github.com/javascript-tutorial/hi.javascript.info)
 
 ## Tech I have worked with 👨‍💻️
-- Languages 🗣️ - JavaScript, TypeScript, python, Java, C, Elm, Dart, Solidity
+- Languages - JavaScript, TypeScript, python, Java, C, Elm, Dart, Solidity
 - Front-end frameworks & tech - React, Redux, Cypress, Jest, Mocha, React-testing lib, Webpack, Gulp, PWAs, Workbox, Mithril, Vue, Svelte,
 - Back-end frameworks & tech - Flask, express, Meteor, Koa, JSP, Servlets
 - Mobile app development 📱 - React-Native, Flutter
