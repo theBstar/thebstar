@@ -4,7 +4,8 @@
 I am Bikram 👦, A full stack developer
 
 ## What am I doing 👨‍🔧️
-- Currently I am employed at Orangehealth
+- Building Houseware
+- Led Apps and Web app development efforts at Orangehealth
 - Previously led the front-end engineering team with occasional contributions to back-end at Radicali
 - Maintaining the [JavaScript.info](https://javascript.info/) Hindi [Repo](https://github.com/javascript-tutorial/hi.javascript.info)
 
@@ -21,7 +22,6 @@ I am Bikram 👦, A full stack developer
 - I write technical blogs at Medium - @theBstaR
 - I play cricket over the weekend 
 - Go for a few runs a week 🏃‍♂️
-- I ride a Jawa 42 (2020) 🏍️
 
 ## Links 😍
 -  [Twitter](https://twitter.com/thebstar13) - Say hi!
