@@ -7,7 +7,6 @@ I am Bikram 👦, A full stack developer
 - Building Houseware
 - Led Apps and Web app development efforts at Orangehealth
 - Previously led the front-end engineering team with occasional contributions to back-end at Radicali
-- Maintaining the [JavaScript.info](https://javascript.info/) Hindi [Repo](https://github.com/javascript-tutorial/hi.javascript.info)
 
 ## Tech I have worked with 👨‍💻️
 - Languages - JavaScript, TypeScript, python, Java, C, Elm, Dart, Go
